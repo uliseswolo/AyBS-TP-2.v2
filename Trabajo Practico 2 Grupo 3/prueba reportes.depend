@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636079093 source:e:\utn\2021\algoritmos y estructuras de datos\tp2\tp2\test reportes\prueba reportes\main.cpp
+	<iostream>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+
